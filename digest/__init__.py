@@ -1,0 +1,2 @@
+"""Morning News Digest package."""
+
